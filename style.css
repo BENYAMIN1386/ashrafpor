@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Lobster&family=Sedgwick+Ave&display=swap');
+body {
+    background-color: #cfcece;
+    text-align: center;
+    font-family: 'Lalezar', cursive;
+}
+
+.div {
+    background-color: #b6b6b6;
+    width: 70vw;
+    margin: 0px auto;
+    border-radius: 12px;
+    padding: 10px 20px;
+}
+
+.div1 {
+    background-color: #b6b6b6;
+    width: 70vw;
+    margin: 0px auto;
+    border-radius: 12px;
+    padding: 10px 20px;
+}
+
+.img1 {
+    border-radius: 18px;
+}
+
+.div2 {
+    background-color: #b6b6b6;
+    width: 70vw;
+    margin: 0px auto;
+    border-radius: 12px;
+    padding: 10px 20px;
+}
+
+.a1 {
+    background-color: #2904fd;
+    display: inline-block;
+    color: #001219;
+    text-decoration: none;
+    font-weight: bold;
+    margin: 10px;
+    border-radius: 18px;
+    padding: 15px 10px;
+}
+
+.a2 {
+    background-color: #fd0463;
+    display: inline-block;
+    color: #001219;
+    text-decoration: none;
+    font-weight: bold;
+    margin: 10px;
+    border-radius: 18px;
+    padding: 15px 10px;
+}
+
+.a3 {
+    background-color: #fd7404;
+    display: inline-block;
+    color: #001219;
+    text-decoration: none;
+    font-weight: bold;
+    margin: 10px;
+    border-radius: 18px;
+    padding: 15px 10px;
+}
+
+.a4 {
+    background-color: #fd043a;
+    display: inline-block;
+    color: #001219;
+    text-decoration: none;
+    font-weight: bold;
+    margin: 10px;
+    border-radius: 18px;
+    padding: 15px 10px;
+}
+
+.div3 {
+    background-color: #b6b6b6;
+    width: 50vw;
+    margin: 0px auto;
+    border-radius: 12px;
+    padding: 10px 20px;
+}
